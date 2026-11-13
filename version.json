@@ -1,7 +1,7 @@
 {
   "version": "1.4.7",
   "mandatory": true,
-  "macro": "on",
+  "macro": "off",
   "downloadUrl": "https://github.com/hydraaapps-byte/hydra-releases/releases/download/v1.4.6/Hydra.Apps.exe",
   "notes": "Atualização obrigatória: novos temas Ben 10 e Homem-Aranha."
 }
