@@ -1,7 +1,7 @@
 {
   "version": "1.4.9",
   "mandatory": true,
-  "macro": "off",
+  "macro": "on",
   "downloadUrl": "https://github.com/hydraaapps-byte/hydra-releases/releases/download/v1.4.6/Hydra.Apps.exe",
   "notes": "Atualização Obrigatória. Melhorias de lógica e funções novas."
 }
